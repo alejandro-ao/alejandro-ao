@@ -9,6 +9,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to create and configure a MySQL database for WordPress using the command line](https://medium.com/@alejandro-ao/how-to-create-and-configure-a-mysql-database-for-wordpress-3979bd9ce8b?source=rss-7e4e748ece1a------2)
+- [How to change the domain name of a WordPress website using WP-CLI](https://medium.com/@alejandro-ao/how-to-change-the-domain-name-of-a-wordpress-website-using-the-terminal-b8d49c67a5fc?source=rss-7e4e748ece1a------2)
+- [How create Wordpress menus with PHP](https://medium.com/@alejandro-ao/how-create-wordpress-menus-with-php-f4441570d0e9?source=rss-7e4e748ece1a------2)
+- [Migrate a WordPress site manually using the command line](https://medium.com/@alejandro-ao/migrate-a-wordpress-site-manually-using-only-the-command-line-a3953ae20b85?source=rss-7e4e748ece1a------2)
+- [How to easily create cURL API requests in PHP &lpar;and Wordpress&rpar;](https://medium.com/@alejandro-ao/learn-to-make-api-calls-with-php-curl-in-wordpress-35f44a380207?source=rss-7e4e748ece1a------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
