@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Sogeti](https://www.sogeti.com/)
 
-- 👨‍💻 All of my projects are available at [https://alejandro-ao.com/](https://alejandro-ao.com/)
+- 👨‍💻 All of my projects are available at [alejandro-ao.com](https://alejandro-ao.com/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
