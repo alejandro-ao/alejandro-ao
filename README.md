@@ -7,7 +7,7 @@
 - 👨‍💻 More about me on my personal website: [alejandro-ao.com](https://alejandro-ao.com/)
 - 📁 My resume: [alejandro-ao.com/resume](https://alejandro-ao.com/resume/)
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [A Simple Explanation of Linear Regression &lpar;Example using R&rpar;](https://medium.com/@alejandro-ao/a-simple-explanation-of-linear-regression-cb6126afe4c2?source=rss-7e4e748ece1a------2)
 - [How to create and configure a MySQL database for WordPress using the command line](https://medium.com/@alejandro-ao/how-to-create-and-configure-a-mysql-database-for-wordpress-3979bd9ce8b?source=rss-7e4e748ece1a------2)
