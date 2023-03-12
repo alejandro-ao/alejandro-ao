@@ -9,11 +9,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Logistic Regression Tutorial: Predicting Breast Cancer](https://medium.com/@alejandro-ao/logistic-regression-tutorial-predicting-breast-cancer-6964f4244e6f?source=rss-7e4e748ece1a------2)
 - [A Simple Explanation of Linear Regression &lpar;Example using R&rpar;](https://medium.com/@alejandro-ao/a-simple-explanation-of-linear-regression-cb6126afe4c2?source=rss-7e4e748ece1a------2)
 - [How to create and configure a MySQL database for WordPress using the command line](https://medium.com/@alejandro-ao/how-to-create-and-configure-a-mysql-database-for-wordpress-3979bd9ce8b?source=rss-7e4e748ece1a------2)
 - [How to change the domain name of a WordPress website using WP-CLI](https://medium.com/@alejandro-ao/how-to-change-the-domain-name-of-a-wordpress-website-using-the-terminal-b8d49c67a5fc?source=rss-7e4e748ece1a------2)
 - [How create Wordpress menus with PHP](https://medium.com/@alejandro-ao/how-create-wordpress-menus-with-php-f4441570d0e9?source=rss-7e4e748ece1a------2)
-- [Migrate a WordPress site manually using the command line](https://medium.com/@alejandro-ao/migrate-a-wordpress-site-manually-using-only-the-command-line-a3953ae20b85?source=rss-7e4e748ece1a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Some Kaggle Notebooks
