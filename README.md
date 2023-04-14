@@ -9,11 +9,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Full-Stack project: ChatGPT API, React, and Node](https://medium.com/@alejandro-ao/full-stack-project-chatgpt-api-react-and-node-e432c20ade94?source=rss-7e4e748ece1a------2)
 - [How to create a Chrome Extension with Manifest V3](https://medium.com/@alejandro-ao/how-to-create-a-chrome-extension-with-manifest-v3-1ddd679b75a7?source=rss-7e4e748ece1a------2)
 - [Logistic Regression Tutorial: Predicting Breast Cancer](https://medium.com/@alejandro-ao/logistic-regression-tutorial-predicting-breast-cancer-6964f4244e6f?source=rss-7e4e748ece1a------2)
 - [A Simple Explanation of Linear Regression &lpar;Example using R&rpar;](https://medium.com/@alejandro-ao/a-simple-explanation-of-linear-regression-cb6126afe4c2?source=rss-7e4e748ece1a------2)
 - [How to create and configure a MySQL database for WordPress using the command line](https://medium.com/@alejandro-ao/how-to-create-and-configure-a-mysql-database-for-wordpress-3979bd9ce8b?source=rss-7e4e748ece1a------2)
-- [How to change the domain name of a WordPress website using WP-CLI](https://medium.com/@alejandro-ao/how-to-change-the-domain-name-of-a-wordpress-website-using-the-terminal-b8d49c67a5fc?source=rss-7e4e748ece1a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Some Kaggle Notebooks
