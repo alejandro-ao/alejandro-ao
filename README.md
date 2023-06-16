@@ -15,10 +15,6 @@
 - [How to create and configure a MySQL database for WordPress using the command line](https://medium.com/@alejandro-ao/how-to-create-and-configure-a-mysql-database-for-wordpress-3979bd9ce8b?source=rss-7e4e748ece1a------2)
 <!-- BLOG-POST-LIST:END -->
 
-### Some Kaggle Notebooks
-- [Introduction to GMM: Fraud Detection](https://www.kaggle.com/code/alexandreao/introduction-to-gmm-fraud-detection)
-- [Predicting Cancer with Logistic Regression](https://www.kaggle.com/code/alexandreao/logistic-regression-on-breast-cancer-dataset)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aavila0707" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aavila0707" height="30" width="40" /></a>
