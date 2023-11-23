@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandro-ao&label=Profile%20views&color=0e75b6&style=flat" alt="alejandro-ao" /> </p>
 
 - 👨‍💻 More about me on my personal website: [alejandro-ao.com](https://alejandro-ao.com/)
+- 👨‍💻 Some tutorials on my: [Youtube channel](https://www.youtube.com/@alejandro_ao)
 - 📁 My resume: [alejandro-ao.com/resume](https://alejandro-ao.com/resume/)
 
 ### Blog posts
