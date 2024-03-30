@@ -9,11 +9,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Crew AI Crash Course &lpar;Step by Step&rpar;](https://alejandro-ao.com/crew-ai-crash-course-step-by-step/)
 - [How to use Streaming in LangChain and Streamlit](https://alejandro-ao.com/how-to-use-streaming-in-langchain-and-streamlit/)
 - [Chat With a MySQL Database Using Python and LangChain](https://alejandro-ao.com/chat-with-mysql-using-python-and-langchain/)
 - [Full setup for Python development with virtual environments](https://alejandro-ao.com/setup-python-development-environment-for-ai/)
 - [Streamlit App: Create a Machine Learning App with Python and Logistic Regression](https://alejandro-ao.com/streamlit-app-predict-cancer-with-logistic-regression/)
-- [How to create a Chrome Extension with Manifest V3](https://alejandro-ao.com/how-to-create-a-chrome-extension-with-manifest-v3/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
