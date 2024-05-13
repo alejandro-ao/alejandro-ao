@@ -9,11 +9,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to automate Instagram Strategy with CrewAI](https://alejandro-ao.com/how-to-automate-instagram-strategy-with-crewai/)
 - [Crew AI Crash Course &lpar;Step by Step&rpar;](https://alejandro-ao.com/crew-ai-crash-course-step-by-step/)
 - [How to use Streaming in LangChain and Streamlit](https://alejandro-ao.com/how-to-use-streaming-in-langchain-and-streamlit/)
 - [Chat With a MySQL Database Using Python and LangChain](https://alejandro-ao.com/chat-with-mysql-using-python-and-langchain/)
 - [Full setup for Python development with virtual environments](https://alejandro-ao.com/setup-python-development-environment-for-ai/)
-- [Streamlit App: Create a Machine Learning App with Python and Logistic Regression](https://alejandro-ao.com/streamlit-app-predict-cancer-with-logistic-regression/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
