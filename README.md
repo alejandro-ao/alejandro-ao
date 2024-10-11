@@ -23,24 +23,21 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  Languages
-  <!-- python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <!-- typescript -->
-  <a href="hthttps://www.typescriptlang.org/cript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <!-- php -->
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  
-  Frameworks && CMS
-  <!-- nextjs -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a> 
-  <!-- wordpress -->
-  <a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="wordpress" width="40" height="40"/> </a> 
-  
-  LLM Apps
-  <!-- langchain -->
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/alejandro-ao/alejandro-ao/e9fc7225e99b7f8ee34614ad709301cac38bbca7/other-logos/langchain.svg" alt="langchain" width="80" height="40"/> </a> 
-  <!-- llamaindex -->
-  <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/alejandro-ao/alejandro-ao/a540a7122068f4983538903c174d591bb2da94e4/other-logos/llamaindex.svg" alt="llamaindex" width="80" height="40"/> </a> 
-</p>
+#### Languages
+<!-- python -->
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<!-- typescript -->
+<a href="hthttps://www.typescriptlang.org/cript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+<!-- php -->
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+
+#### Frameworks && CMS
+<!-- nextjs -->
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a> 
+<!-- wordpress -->
+<a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="wordpress" width="40" height="40"/> </a> 
+
+#### LLM Apps
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/alejandro-ao/alejandro-ao/e9fc7225e99b7f8ee34614ad709301cac38bbca7/other-logos/langchain.svg" alt="langchain" width="80" height="40"/> </a> 
+<a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/alejandro-ao/alejandro-ao/a540a7122068f4983538903c174d591bb2da94e4/other-logos/llamaindex.svg" alt="llamaindex" width="80" height="40"/> </a> 
+
