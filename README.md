@@ -33,7 +33,7 @@
   <!-- nextjs -->
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a> 
   <!-- langchain -->
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/alejandro-ao/alejandro-ao/e9fc7225e99b7f8ee34614ad709301cac38bbca7/other-logos/langchain.svg" alt="langchain" width="40" height="40"/> </a> 
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/alejandro-ao/alejandro-ao/e9fc7225e99b7f8ee34614ad709301cac38bbca7/other-logos/langchain.svg" alt="langchain" width="80" height="40"/> </a> 
   
   <!-- wordpress -->
   <a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/174/174881.png" alt="wordpress" width="40" height="40"/> </a> 
