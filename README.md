@@ -5,7 +5,6 @@
 
 - 👨‍💻 More about me on my personal website: [alejandro-ao.com](https://alejandro-ao.com/)
 - 👨‍💻 Some tutorials on my: [Youtube channel](https://www.youtube.com/@alejandro_ao)
-- 📁 My resume: [alejandro-ao.com/resume](https://alejandro-ao.com/resume/)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
