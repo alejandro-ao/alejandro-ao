@@ -25,7 +25,7 @@
 - [Supabase](https://supabase.com/): As Posgres Develoment Platform
 - [Drizzle](https://orm.drizzle.team/): The Best ORM
 - [Vercel](https://vercel.com/): Easy Deployment
-- [OVHCloud](https://www.ovhcloud.com/): Very affordable, great quality bare metal servers
+- [OVHCloud](https://www.ovhcloud.com/): Affordable, great quality, bare-metal servers
 
 ### My Favorite AI Systems
 - [LangGraph](https://www.langchain.com/langgraph): Graph-based Agents
