@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alejandro AO</h1>
-<h3 align="center">Creating Educational Content on AI Apps</h3>
+<h3 align="center">Teaching AI App Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandro-ao&label=Profile%20views&color=0e75b6&style=flat" alt="alejandro-ao" /> </p>
 
 - 🚀 Currently building: [AIBootcamp.dev](https://aibootcamp.dev/)
-- 👨‍💻 Some tutorials on my: [Youtube channel](https://www.youtube.com/@alejandro_ao)
+- 👨‍💻 Free Tutorials On My [Youtube channel](https://www.youtube.com/@alejandro_ao)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -16,8 +16,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect With Me
-- <a href="https://linkedin.com/in/aavila0707" target="_blank">LinkedIn</a>
-- <a href="https://www.youtube.com/@alejandro_ao" target="_blank">YouTube</a>
+- [LinkedIn](https://linkedin.com/in/aavila0707)
+- [YouTube](https://www.youtube.com/@alejandro_ao)
 
 ### My Current Stack
 - [FastAPI](https://fastapi.tiangolo.com/): For AI Microservices
@@ -27,9 +27,10 @@
 - [Vercel](https://vercel.com/): Easy Deployment
 - [OVHCloud](https://www.ovhcloud.com/): Very affordable, great quality bare metal servers
 
-### AI Systems
+### My Favorite AI Systems
 - [LangGraph](https://www.langchain.com/langgraph): Graph-based Agents
 - [LangSmith](https://www.langchain.com/langsmith): Observability Platform for LLM Apps
 - [CrewAI](https://www.crewai.com/): High-level, Multi-Agent Workflows
 - [LlamaIndex](http://llamaindex.ai/): LLM/ETL Workflows
 - [Unstructured](https://unstructured.io/): The Best Fine-grained ETL Platform
+- [ElevenLabs](https://elevenlabs.io/): Best AI Voice Service, by far
