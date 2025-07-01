@@ -8,11 +8,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to LlamaIndex](https://alejandro-ao.com/intro-to-llamaindex/)
-- [Generate a Newsletter with Exa Research Agent and CrewAI](https://alejandro-ao.com/crewai-with-exa-research-agent-newsletter/)
-- [How to automate Instagram Strategy with CrewAI](https://alejandro-ao.com/how-to-automate-instagram-strategy-with-crewai/)
-- [Crew AI Crash Course &lpar;Step by Step&rpar;](https://alejandro-ao.com/crew-ai-crash-course-step-by-step/)
-- [How to use Streaming in LangChain and Streamlit](https://alejandro-ao.com/how-to-use-streaming-in-langchain-and-streamlit/)
+- [Create and Deploy a Remote MCP Server](https://aibootcamp.dev/blog/remote-mcp-servers)
+- [Introduction to LlamaIndex](https://aibootcamp.dev/blog/intro-to-llamaindex)
+- [Generate a Newsletter with Exa Research Agent and CrewAI](https://aibootcamp.dev/blog/newsletter-gen-with-exa-crewai)
+- [How to automate Instagram Strategy with CrewAI](https://aibootcamp.dev/blog/automate-instagram-crewai)
+- [Crew AI Crash Course &lpar;Step by Step&rpar;](https://aibootcamp.dev/blog/crewai-crash-course)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect With Me
