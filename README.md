@@ -16,7 +16,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect With Me
-- [LinkedIn](https://linkedin.com/in/aavila0707)
+- [LinkedIn](https://www.linkedin.com/in/alejandro-ao/)
 - [YouTube](https://www.youtube.com/@alejandro_ao)
 
 ### My Current Stack
