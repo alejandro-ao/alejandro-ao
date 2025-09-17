@@ -28,6 +28,7 @@
 - [OVHCloud](https://www.ovhcloud.com/): Affordable, great quality, bare-metal servers
 
 ### My Favorite AI Systems
+- [HuggingFace](http://huggingface.co/): Best Community of AI/ML, Free Models, Datasets & Spaces
 - [LangGraph](https://www.langchain.com/langgraph): Graph-based Agents
 - [LangSmith](https://www.langchain.com/langsmith): Observability Platform for LLM Apps
 - [CrewAI](https://www.crewai.com/): High-level, Multi-Agent Workflows
