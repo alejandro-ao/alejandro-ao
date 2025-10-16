@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandro-ao&label=Profile%20views&color=0e75b6&style=flat" alt="alejandro-ao" /> </p>
 
-- 🚀 Currently building: [AIBootcamp.dev](https://aibootcamp.dev/)
-- 👨‍💻 Free Tutorials On My [Youtube channel](https://www.youtube.com/@alejandro_ao)
+- 🚀 FREE AI Learning Community: [AO Learn](https://learn.alejandro-ao.com/)
+- 👨‍💻 FREE Tutorials On My [Youtube channel](https://www.youtube.com/@alejandro_ao)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -35,3 +35,6 @@
 - [LlamaIndex](http://llamaindex.ai/): LLM/ETL Workflows
 - [Unstructured](https://unstructured.io/): The Best Fine-grained ETL Platform
 - [ElevenLabs](https://elevenlabs.io/): Best AI Voice Service, by far
+
+### Deals
+- [Get a FREE month of Comet](https://pplx.ai/aavila070735078) (Perplexity's AI browser)
