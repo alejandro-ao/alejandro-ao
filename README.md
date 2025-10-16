@@ -36,5 +36,6 @@
 - [Unstructured](https://unstructured.io/): The Best Fine-grained ETL Platform
 - [ElevenLabs](https://elevenlabs.io/): Best AI Voice Service, by far
 
-### Deals
-- [Get a FREE month of Comet](https://pplx.ai/aavila070735078) (Perplexity's AI browser)
+### My tools (& Deals)
+- [Get a FREE month of Comet](https://pplx.ai/aavila070735078) (Perplexity's AI browser, with Computer Use 🤯)
+- [Willow](https://willowvoice.com/?ref=AAO40): Best dictation tool out there (15 minutes/day on emails instead of 2 hours)
