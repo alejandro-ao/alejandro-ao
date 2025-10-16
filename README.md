@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandro-ao&label=Profile%20views&color=0e75b6&style=flat" alt="alejandro-ao" /> </p>
 
-- 🚀 FREE AI Learning Community: [AO Learn](https://learn.alejandro-ao.com/)
-- 👨‍💻 FREE Tutorials On My [Youtube channel](https://www.youtube.com/@alejandro_ao)
+- 🚀 Free AI Learning Community: [AO Learn](https://learn.alejandro-ao.com/)
+- 👨‍💻 Free Tutorials On My [Youtube channel](https://www.youtube.com/@alejandro_ao)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -37,5 +37,5 @@
 - [ElevenLabs](https://elevenlabs.io/): Best AI Voice Service, by far
 
 ### My tools (& Deals)
-- [Get a FREE month of Comet](https://pplx.ai/aavila070735078) (Perplexity's AI browser, with Computer Use 🤯)
-- [Willow](https://willowvoice.com/?ref=AAO40): Best dictation tool out there (15 minutes/day on emails instead of 2 hours)
+- [Get a Free month of Comet](https://pplx.ai/aavila070735078) (Perplexity's AI browser, with Computer Use 🤯)
+- [Use Willow](https://willowvoice.com/?ref=AAO40): Best dictation tool out there (15 minutes/day on emails instead of 2 hours)
