@@ -22,7 +22,7 @@
 ### My Current Stack
 - [FastAPI](https://fastapi.tiangolo.com/): For AI Microservices
 - [Next.js](https://nextjs.org/): For User Interfaces
-- [Supabase](https://supabase.com/): As Postgres Develoment Platform
+- [Supabase](https://supabase.com/): As Postgres Development Platform
 - [Drizzle](https://orm.drizzle.team/): The Best ORM
 - [Vercel](https://vercel.com/): Easy Deployment
 - [OVHCloud](https://www.ovhcloud.com/): Affordable, great quality, bare-metal servers
