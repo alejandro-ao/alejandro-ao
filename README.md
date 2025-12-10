@@ -8,11 +8,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Authentication for MCP servers](https://aibootcamp.dev/blog/mcp-auth)
-- [Create and Deploy a Remote MCP Server](https://aibootcamp.dev/blog/remote-mcp-servers)
-- [Introduction to LlamaIndex](https://aibootcamp.dev/blog/intro-to-llamaindex)
-- [Generate a Newsletter with Exa Research Agent and CrewAI](https://aibootcamp.dev/blog/newsletter-gen-with-exa-crewai)
-- [How to automate Instagram Strategy with CrewAI](https://aibootcamp.dev/blog/automate-instagram-crewai)
+- [Build a Multi-Agent Deep Research with Open Models + Firecrawl](https://alejandro-ao.com/posts/agents/multi-agent-deep-research/)
+- [Authentication for MCP servers](https://alejandro-ao.com/posts/mcp/mcp-auth/)
+- [Create and Deploy a Remote MCP Server](https://alejandro-ao.com/posts/mcp/remote-mcp-servers/)
+- [Introduction to LlamaIndex](https://alejandro-ao.com/intro-to-llamaindex/)
+- [Generate a Newsletter with Exa Research Agent and CrewAI](https://alejandro-ao.com/crewai-with-exa-research-agent-newsletter/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect With Me
