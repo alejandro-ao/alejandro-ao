@@ -8,11 +8,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build an AI Agent from Scratch with Python &lpar;No Frameworks&rpar;](https://alejandro-ao.com/posts/agents/agents-from-scratch/)
 - [Build a Multi-Agent Deep Research with Open Models + Firecrawl](https://alejandro-ao.com/posts/agents/multi-agent-deep-research/)
 - [Authentication for MCP servers](https://alejandro-ao.com/posts/mcp/mcp-auth/)
 - [Create and Deploy a Remote MCP Server](https://alejandro-ao.com/posts/mcp/remote-mcp-servers/)
 - [Introduction to LlamaIndex](https://alejandro-ao.com/intro-to-llamaindex/)
-- [Generate a Newsletter with Exa Research Agent and CrewAI](https://alejandro-ao.com/crewai-with-exa-research-agent-newsletter/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect With Me
