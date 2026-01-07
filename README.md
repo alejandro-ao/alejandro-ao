@@ -16,6 +16,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect With Me
+- [X (Twitter)](https://x.com/_alejandroao)
 - [LinkedIn](https://www.linkedin.com/in/alejandro-ao/)
 - [YouTube](https://www.youtube.com/@alejandro_ao)
 
