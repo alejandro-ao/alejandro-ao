@@ -8,11 +8,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with OpenAI Agents SDK](https://alejandro-ao.com/intro-to-openai-agents-sdk/)
 - [Introduction to smolagents: A Minimalist Agent Framework](https://alejandro-ao.com/intro-to-smolagents/)
 - [HuggingChat: Multi-Model Chat with Omni Router + MCP Tools](https://alejandro-ao.com/posts/hugging-face/huggingchat-omni-mcp/)
 - [Build an AI Agent from Scratch with Python &lpar;No Frameworks&rpar;](https://alejandro-ao.com/agents-from-scratch/)
 - [Build a Multi-Agent Deep Research with Open Models + Firecrawl](https://alejandro-ao.com/posts/agents/multi-agent-deep-research/)
-- [Authentication for MCP servers](https://alejandro-ao.com/posts/mcp/mcp-auth/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect With Me
