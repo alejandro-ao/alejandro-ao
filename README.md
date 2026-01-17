@@ -8,11 +8,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Your Own Claude Cowork: Open-Source Local Agent with Shell Access](https://alejandro-ao.com/open-claude-cowork/)
 - [Build an Airline Customer Service Agent with OpenAI Agents SDK](https://alejandro-ao.com/airline-customer-service-agent-openai-agents-sdk/)
 - [Getting Started with OpenAI Agents SDK](https://alejandro-ao.com/intro-to-openai-agents-sdk/)
 - [Introduction to smolagents: A Minimalist Agent Framework](https://alejandro-ao.com/intro-to-smolagents/)
 - [HuggingChat: Multi-Model Chat with Omni Router + MCP Tools](https://alejandro-ao.com/posts/hugging-face/huggingchat-omni-mcp/)
-- [Build an AI Agent from Scratch with Python &lpar;No Frameworks&rpar;](https://alejandro-ao.com/agents-from-scratch/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect With Me
