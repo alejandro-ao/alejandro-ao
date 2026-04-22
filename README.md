@@ -8,11 +8,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Life Science Research with AI Agents](https://alejandro-ao.com/life-science-research-plugin/)
 - [Agent Skills Explained - Full Crash Course](https://alejandro-ao.com/agent-skills/)
 - [MedGemma 1.5: Open-Source Medical AI with 3D Imaging Support](https://alejandro-ao.com/posts/tutorials/google-ai/medgemma-1-5-tutorial/)
 - [Build Your Own Claude Cowork: Open-Source Local Agent with Shell Access](https://alejandro-ao.com/open-claude-cowork/)
 - [Build an Airline Customer Service Agent with OpenAI Agents SDK](https://alejandro-ao.com/airline-customer-service-agent-openai-agents-sdk/)
-- [Getting Started with OpenAI Agents SDK](https://alejandro-ao.com/intro-to-openai-agents-sdk/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect With Me
