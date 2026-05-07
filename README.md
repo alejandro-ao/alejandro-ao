@@ -6,7 +6,7 @@
 - 🚀 Free AI Learning Community: [AO Learn](https://learn.alejandro-ao.com/)
 - 👨‍💻 Free Tutorials On My [Youtube channel](https://www.youtube.com/@alejandro_ao)
 
-### Blog posts
+### Recent Tutorials
 <!-- BLOG-POST-LIST:START -->
 - [Life Science Research with AI Agents](https://alejandro-ao.com/life-science-research-plugin/)
 - [Agent Skills Explained - Full Crash Course](https://alejandro-ao.com/agent-skills/)
