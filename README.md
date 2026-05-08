@@ -8,11 +8,11 @@
 
 ### Recent Tutorials
 <!-- BLOG-POST-LIST:START -->
+- [Pi Agent — The Minimalist Coding Harness That Adapts to YOU](https://alejandro-ao.com/pi-agent-overview/)
+- [DeepSeek V4: SOTA Coding Agent at 12x Lower Cost](https://alejandro-ao.com/deepseek-v4-coding-agent/)
+- [GPT-5.5 Benchmark Analysis: Is the Best Model in the World Worth the Price?](https://alejandro-ao.com/gpt-5-5-benchmark-analysis/)
+- [Kimi K2.6: The Open-Source Model Challenging GPT-5.4 and Claude Opus](https://alejandro-ao.com/kimi-k2-6/)
 - [Life Science Research with AI Agents](https://alejandro-ao.com/life-science-research-plugin/)
-- [Agent Skills Explained - Full Crash Course](https://alejandro-ao.com/agent-skills/)
-- [MedGemma 1.5: Open-Source Medical AI with 3D Imaging Support](https://alejandro-ao.com/posts/tutorials/google-ai/medgemma-1-5-tutorial/)
-- [Build Your Own Claude Cowork: Open-Source Local Agent with Shell Access](https://alejandro-ao.com/open-claude-cowork/)
-- [Build an Airline Customer Service Agent with OpenAI Agents SDK](https://alejandro-ao.com/airline-customer-service-agent-openai-agents-sdk/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect With Me
