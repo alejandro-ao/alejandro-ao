@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandro-ao&label=Profile%20views&color=0e75b6&style=flat" alt="alejandro-ao" /> </p>
 
-- 🚀 Free AI Learning Community: [AO Learn](https://learn.alejandro-ao.com/)
+- 🚀 My Courses & Community: [aiBootcamp.dev](https://aibootcamp.dev/)
 - 👨‍💻 Free Tutorials On My [Youtube channel](https://www.youtube.com/@alejandro_ao)
 
 ### Recent Tutorials
