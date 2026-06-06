@@ -8,11 +8,11 @@
 
 ### Recent Tutorials
 <!-- BLOG-POST-LIST:START -->
+- [How Pi Works: Agent Architecture, Tools, TUI, and Skills](https://alejandro-ao.com/pi-architecture/)
 - [Run Hermes Agent on a $15/Month VPS](https://alejandro-ao.com/hermes-agent-15-dollar-vps/)
 - [FineWeb Dataset Overview: Building LLM Training Data at Scale](https://alejandro-ao.com/fineweb-dataset-overview/)
 - [Hermes Agent Crash Course: Run an Always-On AI Assistant on a VPS](https://alejandro-ao.com/hermes-agent-vps/)
 - [Building an Agentic RAG Workflow in n8n with Open Models](https://alejandro-ao.com/agentic-rag-n8n/)
-- [Pi Agent — The Minimalist Coding Harness That Adapts to YOU](https://alejandro-ao.com/pi-agent-overview/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Connect With Me
