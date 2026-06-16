@@ -8,7 +8,7 @@
 
 ### Recent Tutorials
 <!-- BLOG-POST-LIST:START -->
-- [Planner × Implementer: A Lightweight Way to Compare LLM Coding Duos](https://alejandro-ao.com/llm-planner-implementer-benchmark/)
+- [DuoBench: Best LLM pairs for coding?](https://alejandro-ao.com/llm-planner-implementer-benchmark/)
 - [How Pi Works: Agent Architecture, Tools, TUI, and Skills](https://alejandro-ao.com/pi-architecture/)
 - [Using Pi as a VPS Admin: Chat With Your Server via Telegram](https://alejandro-ao.com/pi-vps-admin/)
 - [Run Hermes Agent on a $15/Month VPS](https://alejandro-ao.com/hermes-agent-15-dollar-vps/)
