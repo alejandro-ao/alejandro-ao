@@ -5,7 +5,7 @@
 - Free Tutorials On My [Youtube channel](https://www.youtube.com/@alejandro_ao)
 - My Courses & Community: [aiBootcamp.dev](https://aibootcamp.dev/)
 
-### Recent Tutorials
+#### Recent Tutorials
 <!-- BLOG-POST-LIST:START -->
 - [Hermes Agent Architecture Explained](https://alejandro-ao.com/hermes-agent-architecture/)
 - [DuoBench: Best LLM pairs for coding?](https://alejandro-ao.com/llm-planner-implementer-benchmark/)
@@ -14,7 +14,7 @@
 - [Run Hermes Agent on a $15/Month VPS](https://alejandro-ao.com/hermes-agent-15-dollar-vps/)
 <!-- BLOG-POST-LIST:END -->
 
-### Connect With Me
+#### Connect With Me
 - [X (Twitter)](https://x.com/_alejandroao)
 - [LinkedIn](https://www.linkedin.com/in/alejandro-ao/)
 - [YouTube](https://www.youtube.com/@alejandro_ao)
