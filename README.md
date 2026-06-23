@@ -1,10 +1,10 @@
 <h1>Alejandro AO</h1>
 <h3>Dev Advocate @huggingface</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandro-ao&label=Profile%20views&color=0e75b6&style=flat" alt="alejandro-ao" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandro-ao&label=Profile%20views&color=0e75b6&style=flat" alt="alejandro-ao" /> </p> -->
 
-- 🚀 My Courses & Community: [aiBootcamp.dev](https://aibootcamp.dev/)
-- 👨‍💻 Free Tutorials On My [Youtube channel](https://www.youtube.com/@alejandro_ao)
+- Free Tutorials On My [Youtube channel](https://www.youtube.com/@alejandro_ao)
+- My Courses & Community: [aiBootcamp.dev](https://aibootcamp.dev/)
 
 ### Recent Tutorials
 <!-- BLOG-POST-LIST:START -->
