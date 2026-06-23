@@ -1,4 +1,5 @@
-<img width="1280" height="342" alt="header" src="https://github.com/user-attachments/assets/906fa961-6900-457d-8264-0d87418debc1" />
+<img width="1280" height="342" alt="header" src="https://github.com/user-attachments/assets/a29f911f-bf20-4b07-a5ad-02018f90d2fa" />
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandro-ao&label=Profile%20views&color=0e75b6&style=flat" alt="alejandro-ao" /> </p> -->
 <br><br>
 
