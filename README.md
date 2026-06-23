@@ -1,5 +1,6 @@
-<img style="margin-bottom: 2rem" width="1280" height="342" alt="Frame 175 (2)" src="https://github.com/user-attachments/assets/906fa961-6900-457d-8264-0d87418debc1" />
+<img width="1280" height="342" alt="Frame 175 (2)" src="https://github.com/user-attachments/assets/906fa961-6900-457d-8264-0d87418debc1" />
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandro-ao&label=Profile%20views&color=0e75b6&style=flat" alt="alejandro-ao" /> </p> -->
+<br><br>
 
 - Free Tutorials On My [Youtube channel](https://www.youtube.com/@alejandro_ao)
 - My Courses & Community: [aiBootcamp.dev](https://aibootcamp.dev/)
