@@ -1,7 +1,5 @@
 <h2>Alejandro AO — Dev Advocate @huggingface </h2>
 
----
-
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandro-ao&label=Profile%20views&color=0e75b6&style=flat" alt="alejandro-ao" /> </p> -->
 
 - Free Tutorials On My [Youtube channel](https://www.youtube.com/@alejandro_ao)
