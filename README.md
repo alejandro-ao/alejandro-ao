@@ -1,15 +1,12 @@
 <img width="1280" height="342" alt="header" src="https://github.com/user-attachments/assets/a29f911f-bf20-4b07-a5ad-02018f90d2fa" />
 
-# Alejandro AO
-
 AI Education | Developer Advocate @ 🤗 Hugging Face
 
 **3.6M** YouTube views · **81K** subscribers · **39K** Udemy students · **4.5**★ course rating
 
 #### Courses
 
-- [Complete MCP Developer Guide: AI Agents, Servers & Tools](https://www.udemy.com/course/complete-mcp-developer-guide-ai-agents-servers-tools/?referralCode=DA248B1ADA02A006F953) — build Model Context Protocol servers and tools for AI agents · 39K students · 4.5★
-- Courses & community: [aiBootcamp.dev](https://aibootcamp.dev/)
+- [Complete MCP Developer Guide](https://www.udemy.com/course/complete-mcp-developer-guide-ai-agents-servers-tools/?referralCode=DA248B1ADA02A006F953) · 39K students · 4.5★
 
 #### Projects
 
