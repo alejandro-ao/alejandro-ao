@@ -2,15 +2,15 @@
 
 **3.6M** YouTube views · **81K** subscribers · **39K** Udemy students · **4.5**★ course rating
 
-#### Courses
+**Courses**
 
 - [Complete MCP Developer Guide](https://www.udemy.com/course/complete-mcp-developer-guide-ai-agents-servers-tools/?referralCode=DA248B1ADA02A006F953) · 39K students · 4.5★
 
-#### Projects
+**Projects**
 
 - [Tau](https://github.com/huggingface/tau) — a Python port of Pi's minimalist coding agent · ★ 2.4K
 
-#### Recent Tutorials
+**Recent Tutorials**
 <!-- BLOG-POST-LIST:START -->
 - [Prompt Caching in Provider-Agnostic Agents](https://alejandro-ao.com/tutorials/prompt-caching/)
 - [Hermes Agent Architecture Explained](https://alejandro-ao.com/hermes-agent-architecture/)
@@ -19,7 +19,7 @@
 - [Using Pi as a VPS Admin: Chat With Your Server via Telegram](https://alejandro-ao.com/pi-vps-admin/)
 <!-- BLOG-POST-LIST:END -->
 
-#### Connect With Me
+**Connect With Me**
 - [YouTube](https://www.youtube.com/@alejandro_ao) — free tutorials
 - [X (Twitter)](https://x.com/_alejandroao)
 - [LinkedIn](https://www.linkedin.com/in/alejandro-ao/)
