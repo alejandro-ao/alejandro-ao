@@ -1,7 +1,5 @@
 <img width="1280" height="342" alt="header" src="https://github.com/user-attachments/assets/a29f911f-bf20-4b07-a5ad-02018f90d2fa" />
 
-AI Education | Developer Advocate @ 🤗 Hugging Face
-
 **3.6M** YouTube views · **81K** subscribers · **39K** Udemy students · **4.5**★ course rating
 
 #### Courses
