@@ -1,10 +1,19 @@
 <img width="1280" height="342" alt="header" src="https://github.com/user-attachments/assets/a29f911f-bf20-4b07-a5ad-02018f90d2fa" />
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandro-ao&label=Profile%20views&color=0e75b6&style=flat" alt="alejandro-ao" /> </p> -->
-<br><br>
+# Alejandro AO
 
-- Free Tutorials On My [Youtube channel](https://www.youtube.com/@alejandro_ao)
-- My Courses & Community: [aiBootcamp.dev](https://aibootcamp.dev/)
+AI Education | Developer Advocate @ 🤗 Hugging Face
+
+**3.6M** YouTube views · **81K** subscribers · **39K** Udemy students · **4.5**★ course rating
+
+#### Courses
+
+- [Complete MCP Developer Guide: AI Agents, Servers & Tools](https://www.udemy.com/course/complete-mcp-developer-guide-ai-agents-servers-tools/?referralCode=DA248B1ADA02A006F953) — build Model Context Protocol servers and tools for AI agents · 39K students · 4.5★
+- Courses & community: [aiBootcamp.dev](https://aibootcamp.dev/)
+
+#### Projects
+
+- [Tau](https://github.com/huggingface/tau) — a Python port of Pi's minimalist coding agent · ★ 2.4K
 
 #### Recent Tutorials
 <!-- BLOG-POST-LIST:START -->
@@ -16,6 +25,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 #### Connect With Me
+- [YouTube](https://www.youtube.com/@alejandro_ao) — free tutorials
 - [X (Twitter)](https://x.com/_alejandroao)
 - [LinkedIn](https://www.linkedin.com/in/alejandro-ao/)
-- [YouTube](https://www.youtube.com/@alejandro_ao)
+- [alejandro-ao.com](https://alejandro-ao.com)
