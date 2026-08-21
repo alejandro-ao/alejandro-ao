@@ -1,7 +1,5 @@
 <img width="1280" height="342" alt="header" src="https://github.com/user-attachments/assets/a29f911f-bf20-4b07-a5ad-02018f90d2fa" />
 
-**3.6M** YouTube views · **81K** subscribers · **39K** Udemy students · **4.5**★ course rating
-
 **Courses**
 
 - [Complete MCP Developer Guide](https://www.udemy.com/course/complete-mcp-developer-guide-ai-agents-servers-tools/?referralCode=DA248B1ADA02A006F953) · 39K students · 4.5★
@@ -20,7 +18,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 **Connect With Me**
-- [YouTube](https://www.youtube.com/@alejandro_ao) — free tutorials
+- [YouTube](https://www.youtube.com/@alejandro_ao) 
 - [X (Twitter)](https://x.com/_alejandroao)
 - [LinkedIn](https://www.linkedin.com/in/alejandro-ao/)
 - [alejandro-ao.com](https://alejandro-ao.com)
