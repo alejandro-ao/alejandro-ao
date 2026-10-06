@@ -6,7 +6,7 @@
 
 **Projects**
 
-- [Tau](https://github.com/huggingface/tau) — a Python port of Pi's minimalist coding agent · ★ 2.4K
+- [Tau](https://github.com/huggingface/tau) — a Python port of Pi's minimalist coding agent · ★ 2.9K
 
 **Recent Tutorials**
 <!-- BLOG-POST-LIST:START -->
