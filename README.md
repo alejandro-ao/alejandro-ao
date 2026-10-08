@@ -6,7 +6,7 @@
 
 **Projects**
 
-- [Tau](https://github.com/huggingface/tau) — a Python port of Pi. An educational agent harness. · ★ 2.9K
+- [Tau](https://twotimespi.dev/) — a Python port of Pi. An educational agent harness. · ★ 2.9K
 
 **Recent Tutorials**
 <!-- BLOG-POST-LIST:START -->
